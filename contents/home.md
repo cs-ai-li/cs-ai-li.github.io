@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![cs-ai-li](https://img.shields.io/badge/cs-ai-li-github-blue?logo=github)](https://github.com/cs-ai-li)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He graduated from Wuhan Textile University with a bachelor's degree in computer science and technology.
 
 #### Email
-sli[at]cumt.edu.cn
+2004210516[at]mail.wtu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Second B.S., Computer Science and Technology, Wuhan Textile University, 2022-2024.\
+B.S., Energy Chemical Engineering, Liaoning Shihua University, 2017-2021.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Machine Learning, Neural Networks, Natural Language Processing.
 
