@@ -9,8 +9,13 @@ He graduated from Wuhan Textile University with a bachelor's degree in computer 
 
 #### Education
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Second B.S., Computer Science and Technology, Wuhan Textile University, 2022-2024.\
 B.S., Energy Chemical Engineering, Liaoning Shihua University, 2017-2021.
+=======
+S.B.E., Computer Science and Technology,Wuhan Textile University, 2022—2024 (expected).\
+B.E., Chemical Engineering, Liaoning Shihua University, 2017—2021.
+>>>>>>> Stashed changes
 =======
 S.B.E., Computer Science and Technology,Wuhan Textile University, 2022—2024 (expected).\
 B.E., Chemical Engineering, Liaoning Shihua University, 2017—2021.
